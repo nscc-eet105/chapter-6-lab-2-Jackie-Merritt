@@ -1,3 +1,4 @@
+#Jackie_Merritt-Chp6-Lab2_6/29/2025
 import matplotlib.pyplot as plt
 
 def main():
